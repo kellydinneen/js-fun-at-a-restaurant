@@ -39,18 +39,6 @@ function removeMenuItem(restauraunt, itemName, type) {
   }
 }
 
-  //for(i = 0; i < restauraunt.menus.lunch.length; i++){
-    //restauraunt.menus.lunch[i].item == item ?
-    //restauraunt.menus.lunch.splice(i, 1) :
-  //   restauraunt.menus.lunch = restauraunt.menus.lunch;
-  // }
-  //for(i = 0; i < restauraunt.menus.dinner.length; i++){
-  //   restauraunt.menus.dinner[i].item == item ?
-  //   restauraunt.menus.dinner.splice(i, 1) :
-  //   restauraunt.menus.dinner = restauraunt.menus.dinner;
-  // }
-
-
 
 module.exports = {
   createRestaurant,
